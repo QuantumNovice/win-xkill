@@ -1,6 +1,11 @@
 ## win-xkill
 A porting of the xkill utility for Windows.
 
+# Install Instructions
+[Package Install](https://winget.ragerworks.com/package/QuantumNovice.xkill)
+```
+winget install --id=QuantumNovice.xkill -e
+```
 ---------------------------------------------------------------------------------------------------------
 
 xkill is a utility program distributed with the X Window System that instructs the X server to
